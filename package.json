@@ -1,0 +1,8 @@
+{
+  "name": "yields-unserialize",
+  "description": "Unserialize a serialized javascript value.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "license": "MIT"
+}
